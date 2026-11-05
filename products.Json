@@ -1,0 +1,23 @@
+[{
+   "Id": "3ec50841-da98-4757-ad16-2b2dbf4d429f",
+   "Name": "Zackary",
+   "Price": 
+{
+    "IsoCurrency": "USD",
+     "Amount": 12.99
+},
+   "Stock": 40,
+   "Reference": "randomText"
+},
+{
+    "Id": "42aa7843-a83d-44a3-9860-b184e40653b8",
+    "Name": "Anela",
+    "Price":  
+{
+    "IsoCurrency": "USD",
+     "Amount": 24.99
+},
+    "Stock": 1,
+    "Reference": "randomText"
+}
+]
