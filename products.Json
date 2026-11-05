@@ -19,5 +19,16 @@
 },
     "Stock": 1,
     "Reference": "randomText"
+},
+{
+   "Id": "3ec50841-da98-4757-ad16-2b2dbf4d429f",
+   "Name": "Zackary",
+   "Price": 
+{
+    "IsoCurrency": "USD",
+     "Amount": 12.99
+},
+   "Stock": 40,
+   "Reference": "randomText"
 }
 ]
