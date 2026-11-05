@@ -20,4 +20,17 @@
     "Stock": 1,
     "Reference": "randomText"
 }
+
+{
+    "Id": "3e1c7f8e-2b43-4bd9-ac0a-033f4c36c4c2",
+    "Name": "Rando",
+    "Price":  
+{
+    "IsoCurrency": "USD",
+     "Amount": 25.99
+},
+    "Stock": 1000,
+    "Reference": "randomText"
+}
+
 ]
